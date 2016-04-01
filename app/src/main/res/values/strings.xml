@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yoda Application</string>
+    <string name="start">How would Yoda say that?</string>
+    <string name="go">Find Out</string>
+    <string name="back">Do It Again</string>
+    <string name="ideas">Ideas!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string-array name="ideas2">
+        <item>Try a Joke :) </item>
+        <item>Try Song Lyrics!</item>
+        <item>Try any Text Message!</item>
+        <item>Try any curse word :0 </item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context="com.example.christiandegenova.yodaspeaks.YodaFragment">
+
+    <ImageView
+        android:layout_width="233dp"
+        android:layout_height="186dp"
+        android:id="@+id/yodaImage2"
+        android:src="@mipmap/yoda"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal|top" />
+
+    <TextView
+        android:layout_width="210dp"
+        android:layout_height="172dp"
+        android:text=""
+        android:background="@color/white"
+        android:id="@+id/yodaText2"
+        android:layout_below="@+id/yodaImage"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center" />
+
+</FrameLayout>
